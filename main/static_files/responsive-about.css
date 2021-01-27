@@ -1,0 +1,323 @@
+@media screen and (min-height:1000px){
+    .body{
+        min-height:200vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: smaller;
+        font-weight: bold;
+    }
+}            
+@media screen and (min-height:2000px) and (min-width:1000px){
+    .body{
+        min-height:150vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: 230%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 270%;
+    }
+    h1{
+        font-size: 320%;
+    }
+}            
+@media screen and (max-width:540px) and (min-height:640px){
+    .body{
+        min-height:200vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: smaller;
+        font-weight: bold;
+    }        
+}
+@media screen and (width:800px) and (height:1280px){
+    .body{
+        min-height:200vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+        justify-content: center;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: 150%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 200%;
+    }
+    h1{
+        font-size: 300%;
+    }
+}
+@media screen and (width:768px) and (height:1024px){
+    .body{
+        min-height:200vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+        justify-content: center;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: 150%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 200%;
+    }
+    h1{
+        font-size: 300%;
+    }
+}
+@media screen and (width:320px) and (min-height:480px){
+    .body{
+        min-height:500vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+        justify-content: center;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: 110%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 150%;
+    }
+    h1{
+        font-size: 200%;
+    }
+    .mobile{
+        font-size: 55%;
+    }
+}
+@media screen and (width:280px) and (min-height:600px){
+    .body{
+        min-height:500vh;
+        max-width: 100%;
+    }
+    .name{
+        height:20% ;
+    }
+    .money{
+        height:20% ;
+    }
+    .boxes{
+        flex-direction: column;
+        align-content: center;
+        align-items: center;
+        justify-content: space-between;
+        height: 60%;
+        background:linear-gradient(90deg,rgb(243, 236, 218),rgb(224, 195, 132));
+    }
+    .box1{
+        width: 70%;
+        height : 20%;
+        justify-content: center;
+    }
+    .box2{
+        width: 70%;
+        height : 20%;
+    }
+    .box3{
+        width: 70%;
+        height : 20%;
+    }
+    .box4{
+        width: 70%;
+        height : 20%;
+    }
+    ul{
+        font-size: 110%;
+        font-weight: bold;
+    }
+    p{
+        font-size: 150%;
+    }
+    h1{
+        font-size: 200%;
+    }
+    .mobile{
+        font-size: 35%;
+    }
+}
+
+
+
+
